@@ -15,3 +15,10 @@ a reflection on his character
 8 obsolete : turning back : RETURN
 9a : a transformation of a figure in which each point is replaced by a point symmetric with respect to a line or plane
 b : a transformation that involves reflection in more than one axis of a rectangular coordinate system
+
+Reflect: Local copies of remote branches
+Now that you've seen how to update your local copy of remote branches, and how to combine conflicting changes from multiple people, add the following question and your thoughts on it to your reflections file:
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You may also want to commit and push your changes. When you're finished, click "Next" and Caroline will introduce a GitHub feature called a Pull Request that makes collaboration easier.
